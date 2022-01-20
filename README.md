@@ -1,3 +1,5 @@
+#ForenceAppV0.1
+Esta aplicacion esta realizada en Java la cual a través de una interfaz gráfica permite automatizar la realización de la documentacion que se debe generar a la hora de un perito informatico a correos electronicos.
 # Manual de isntalacion
 # Instalacion de mysql
 1. Descargar mysql en su version 8.0.25 para ello se puede guiar del siguiente tutorial: https://codigosql.top/mysql/instalar-mysql-server-y-mysql-workbench-en-windows-10/
